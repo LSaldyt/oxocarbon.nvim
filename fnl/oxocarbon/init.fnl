@@ -63,33 +63,33 @@
                            :base04 (blend-hex base00 base06 0.82)
                            :base05 (blend-hex base00 base06 0.95)
                            : base06
-                           :base07 "#66ccff"
-                           :base08 "#0088cc"
+                           :base07 "#66ccff" ; light blue
+                           :base08 "#0088cc" ; darker blue
                            : base09
-                           :base10 "#ff6666"
-                           :base11 "#33b1ff"
-                           :base12 "#cc0000"
-                           :base13 "#be95ff"
-                           :base14 "#ffcc66"
-                           :base15 "#82cfff"
-                           :blend "#131313"
+                           :base10 "#ff6666" ; light red
+                           :base11 "#33b1ff" ;
+                           :base12 "#be95ff" ; dark red
+                           :base13 "#ff6666"
+                           :base14 "#ffcc66" ; grain color
+                           :base15 "#82cfff" ; light blue
+                           :blend "#131313"  ; near-black background?
                            :none :NONE})
                      {:base00 base06
                       :base01 (blend-hex base00 base06 0.95)
                       :base02 (blend-hex base00 base06 0.82)
                       :base03 base00
-                      :base04 "#37474F"
-                      :base05 "#90A4AE"
-                      :base06 "#525252"
-                      :base07 "#08bdba"
-                      :base08 "#ff7eb6"
-                      :base09 "#ee5396"
-                      :base10 "#FF6F00"
-                      :base11 "#0f62fe"
-                      :base12 "#673AB7"
-                      :base13 "#42be65"
-                      :base14 "#be95ff"
-                      :base15 "#FFAB91"
+                      :base04 "#37474F" ; 26% gray
+                      :base05 "#90A4AE" ; 62% grey
+                      :base06 "#525252" ; 32% gray
+                      :base07 "#08bdba" ; Ugly cyan -- CHANGEME
+                      :base08 "#ff7eb6" ; weird cyan
+                      :base09 "#ee5396" ; hot pink
+                      :base10 "#FF6F00" ; dark orange
+                      :base11 "#0f62fe" ; normie blue
+                      :base12 "#673AB7" ; dark purple
+                      :base13 "#42be65" ; light green
+                      :base14 "#be95ff" ; lovely light purple
+                      :base15 "#FFAB91" ; light salmon
                       :blend "#FAFAFA"
                       :none :NONE}))
 
