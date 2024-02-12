@@ -63,10 +63,10 @@
                            :base04 (blend-hex base00 base06 0.82)
                            :base05 (blend-hex base00 base06 0.95)
                            : base06
-                           :base07 "#08bdba"
-                           :base08 "#3ddbd9"
+                           :base07 "#66ccff"
+                           :base08 "#0088cc"
                            : base09
-                           :base10 "#ee5396"
+                           :base10 "#ff6666"
                            :base11 "#33b1ff"
                            :base12 "#ff7eb6"
                            :base13 "#42be65"
