@@ -68,9 +68,9 @@
                            : base09
                            :base10 "#ff6666"
                            :base11 "#33b1ff"
-                           :base12 "#ff7eb6"
-                           :base13 "#42be65"
-                           :base14 "#be95ff"
+                           :base12 "#cc0000"
+                           :base13 "#be95ff"
+                           :base14 "#ffcc66"
                            :base15 "#82cfff"
                            :blend "#131313"
                            :none :NONE})
